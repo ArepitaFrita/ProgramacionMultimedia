@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Champions DB</string>
+    <string name="LoginUsername">Username</string>
+    <string name="LoginPassword">Password</string>
+    <string name="LoginButton">Sign In</string>
+    <string name="alreadyLogged">Hello World!</string>
+    <string name="notLogged">Goodbye World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="champion_role">Role: %s</string>
+    <string name="champion_release">Release Date: %s</string>
+    <string name="champion_dmg">Type of damage: %s</string>
+    <string name="champions_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="insert">Insert</string>
+    <string name="list">List</string>
+    <string name="home">Home</string>
+
+
+</resources>
