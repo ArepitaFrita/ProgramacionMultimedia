@@ -1,4 +1,4 @@
-# ProgramacionMultimedia Carlos Garcia
+# ProgramacionMultimedia - Carlos Garcia
 Proyecto Android
 
 
