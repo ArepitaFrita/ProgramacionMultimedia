@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_item_list.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_fragment_edit.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\fragment_edit.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable-v24_penguin.jpg.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable-v24\\penguin.jpg"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_fragment_my_list.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\fragment_my_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_annie.jpg.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\annie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_aatrox.jpg.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\aatrox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_zeri.jpg.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\zeri.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_vi.jpg.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\vi.jpg"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\drawable_lillia.png.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\drawable\\lillia.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.p1.loginlayout.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.p1.loginlayout.app-debug-46:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-merged_res-45:\\layout_activity_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Carlos G\\.gradle\\daemon\\7.4\\com.p1.loginlayout.app-main-47:\\layout\\activity_bottom_navigation.xml"
+    }
+]
