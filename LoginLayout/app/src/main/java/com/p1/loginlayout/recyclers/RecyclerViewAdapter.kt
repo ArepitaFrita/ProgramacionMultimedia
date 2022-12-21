@@ -1,21 +1,22 @@
 package com.p1.loginlayout.recyclers
 
-import android.app.AlertDialog
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.p1.loginlayout.DB.ChampionsDBHelper
 import com.p1.loginlayout.R
 import com.p1.loginlayout.fragments.DetailFragment
 import com.p1.loginlayout.model.Champion
-
 // Adapter for the RecyclerView
-class RecyclerViewAdapter(llistat: MutableList<Champion>, context: Context?, dbHelper: ChampionsDBHelper): RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>() {
+class RecyclerViewAdapter(
+    llistat: MutableList<Champion>, context: Context?, dbHelper: ChampionsDBHelper
+) : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>() {
     private val db = dbHelper
     private val championsData = llistat
 
@@ -43,6 +44,7 @@ class RecyclerViewAdapter(llistat: MutableList<Champion>, context: Context?, dbH
                     .replace(R.id.fragment_container, DetailFragment(championsData[position]))
                     .addToBackStack(null).commit()
             }
+
             setOnLongClickListener() {
                 val builder = AlertDialog.Builder(context)
                 val whenDeleted = AlertDialog.Builder(context)
@@ -74,6 +76,14 @@ class RecyclerViewAdapter(llistat: MutableList<Champion>, context: Context?, dbH
         return championsData.size
     }
 
+    fun removeAt(position: Int) {
+        db.deleteById(championsData[position].id!!)
+        championsData.removeAt(position)
+        notifyItemRemoved(position)
+        notifyItemChanged(position, championsData.size)
+
+    }
+
     // ViewHolder is a class that holds the views for each item of the RecyclerView
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val champName: TextView = itemView.findViewById(R.id.itemName)
@@ -83,7 +93,6 @@ class RecyclerViewAdapter(llistat: MutableList<Champion>, context: Context?, dbH
 
 
     }
-
 
 
 }

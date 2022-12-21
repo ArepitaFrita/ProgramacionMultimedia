@@ -7,10 +7,12 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.DividerItemDecoration
+import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.p1.loginlayout.DB.ChampionsDBHelper
 import com.p1.loginlayout.R
+import com.p1.loginlayout.SwipeToDeleteCallback
 import com.p1.loginlayout.model.ChampionViewModel
 import com.p1.loginlayout.recyclers.RecyclerViewAdapter
 
@@ -31,7 +33,16 @@ class MyListFragment(dbHelper: ChampionsDBHelper) : Fragment() {
         val adapter = RecyclerViewAdapter(db.listChamps(), context, db)
         recyclerView.adapter = adapter
         recyclerView.addItemDecoration(DividerItemDecoration(context, DividerItemDecoration.VERTICAL))
-        activity?.title = "Champions List"
+        activity?.title = getString(R.string.list_fragment)
+
+        val swipeToDeleteCallback = object : SwipeToDeleteCallback(requireContext()) {
+            override fun onSwiped(viewHolder: RecyclerView.ViewHolder, i: Int) {
+                val adapter = recyclerView.adapter as RecyclerViewAdapter
+                adapter.removeAt(viewHolder.adapterPosition)
+            }
+        }
+        val itemTouchHelper = ItemTouchHelper(swipeToDeleteCallback)
+        itemTouchHelper.attachToRecyclerView(recyclerView)
 
         return v.rootView
 

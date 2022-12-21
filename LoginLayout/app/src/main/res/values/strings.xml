@@ -3,9 +3,8 @@
     <string name="LoginUsername">Username</string>
     <string name="LoginPassword">Password</string>
     <string name="LoginButton">Sign In</string>
-    <string name="alreadyLogged">Hello World!</string>
-    <string name="notLogged">Goodbye World!</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Welcome</string>
+
     <string name="champion_role">Role: %s</string>
     <string name="champion_release">Release Date: %s</string>
     <string name="champion_dmg">Type of damage: %s</string>
@@ -13,6 +12,39 @@
     <string name="insert">Insert</string>
     <string name="list">List</string>
     <string name="home">Home</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- Inputs Hints -->
+    <string name="champion_name_input">Champion Name</string>
+    <string name="type_of_damage_input">Type of Damage</string>
+    <string name="champion_release_input">Champion Release</string>
+    <string name="champion_role_input">Champion Role</string>
+    <string name="submit_button">submit</string>
+    <!-- Home Fragment Buttons -->
+    <string name="list_db">List DB</string>
+    <string name="remove_db">Remove DB</string>
+
+    <!-- Fragments appbar titles -->
+    <string name="home_fragment">Champions Database</string>
+    <string name="insert_fragment">Insert Champion</string>
+    <string name="list_fragment">Champions List</string>
+
+    <!-- Toolbar Titles -->
+    <string name="settings_title">Settings</string>
+    <string name="logout_title">Log out</string>
+    <string name="app_language">App language</string>
 
 
 </resources>

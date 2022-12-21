@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meister DB</string>
+    <string name="LoginUsername">Nutzername</string>
+    <string name="LoginPassword">Passwort</string>
+    <string name="LoginButton">Einloggen</string>
+    <string name="welcome">Willkommen</string>
+
+    <string name="champion_role">Rolle: %s</string>
+    <string name="champion_release">Veröffentlichungsdatum: %s</string>
+    <string name="champion_dmg">Art des Schadens: %s</string>
+    <string name="champions_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="insert">Einfügung</string>
+    <string name="list">Aufführen</string>
+    <string name="home">Heim</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Mitteilungen</string>
+    <string name="sync_header">Synchronisieren</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Ihre Unterschrift</string>
+    <string name="reply_title">Standard-Antwortaktion</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">E-Mails regelmäßig synchronisieren</string>
+    <string name="attachment_title">Laden Sie eingehende Anhänge herunter</string>
+    <string name="attachment_summary_on">Anhänge für eingehende E-Mails automatisch herunterladen
+    </string>
+    <string name="attachment_summary_off">Laden Sie Anhänge nur runter, wenn Sie manuell angefordert werden</string>
+    <!-- Inputs Hints -->
+    <string name="champion_name_input">Meister-Name</string>
+    <string name="type_of_damage_input">Art des Schadens</string>
+    <string name="champion_release_input">Meister-Veröffentlichung</string>
+    <string name="champion_role_input">Meister-Rolle</string>
+    <string name="submit_button">Einreichen</string>
+    <!-- Home Fragment Buttons -->
+    <string name="list_db">Datenbank auflisten</string>
+    <string name="remove_db">Datenbank entfernen</string>
+
+    <!-- Fragments appbar titles -->
+    <string name="home_fragment">Meisters-Datenbank</string>
+    <string name="insert_fragment">Meister einfügen</string>
+    <string name="list_fragment">Meisters Aufführen</string>
+
+    <!-- Toolbar Titles -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="logout_title">Ausloggen</string>
+    <string name="app_language">App-Sprache</string>
+</resources>

@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.p1.loginlayout.DB.ChampionsDBHelper
+import com.p1.loginlayout.R
 import com.p1.loginlayout.databinding.FragmentHomeBinding
 
 // HomeFragment is the fragment that shows two buttons to add to list and delete champions database
@@ -15,6 +16,7 @@ class HomeFragment(dbHelper: ChampionsDBHelper) : Fragment() {
     private val db = dbHelper
     private var _binding: FragmentHomeBinding? = null
     private val binding get() = _binding!!
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -25,9 +27,10 @@ class HomeFragment(dbHelper: ChampionsDBHelper) : Fragment() {
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         listChamps()
         deleteAll()
-        activity?.title = "Champions Database"
+        activity?.title = getString(R.string.home_fragment)
         return binding.root
     }
+
 
     private fun listChamps() {
         binding.buttonListDB.setOnClickListener {

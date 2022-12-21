@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="164dp"
         android:layout_marginBottom="56dp"
-        android:text="@string/notLogged"
+        android:text="@string/welcome"
         app:layout_constraintBottom_toTopOf="@+id/btnSignIn"
         app:layout_constraintStart_toStartOf="parent" />
 

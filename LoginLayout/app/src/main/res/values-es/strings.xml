@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DB Campeones</string>
+    <string name="LoginUsername">Usuario</string>
+    <string name="LoginPassword">Contraseña</string>
+    <string name="LoginButton">Inicia Sesión</string>
+    <string name="welcome">Bienvenido/a</string>
+
+    <string name="champion_role">Rol: %s</string>
+    <string name="champion_release">Fecha de lanzamiento: %s</string>
+    <string name="champion_dmg">Tipo de daño: %s</string>
+    <string name="champions_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="insert">Insertar</string>
+    <string name="list">Lista</string>
+    <string name="home">Inicio</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Mensajes</string>
+    <string name="sync_header">Sincronizar</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Tu firma</string>
+    <string name="reply_title">Acción de respuesta predeterminada</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sincronizar email periódicamente</string>
+    <string name="attachment_title">Descargar archivos adjuntos entrantes</string>
+    <string name="attachment_summary_on">Descargar automáticamente archivos adjuntos para correos electrónicos entrantes
+    </string>
+    <string name="attachment_summary_off">Solo descargue archivos adjuntos cuando se solicite manualmente</string>
+    <!-- Inputs Hints -->
+    <string name="champion_name_input">Nombre del Campeón</string>
+    <string name="type_of_damage_input">Tipo de daño</string>
+    <string name="champion_release_input">Fecha de lanzamiento</string>
+    <string name="champion_role_input">Rol del campeón</string>
+    <string name="submit_button">Enviar</string>
+    <!-- Home Fragment Buttons -->
+    <string name="list_db">Listar DB</string>
+    <string name="remove_db">Eliminar DB</string>
+
+    <!-- Fragments appbar titles -->
+    <string name="home_fragment">DB Campeones</string>
+    <string name="insert_fragment">Inserta Campeones</string>
+    <string name="list_fragment">Lista de Campeones</string>
+
+    <!-- Toolbar Titles -->
+    <string name="settings_title">Configuración</string>
+    <string name="logout_title">Cerrar sesión</string>
+    <string name="app_language">Idioma de la aplicación</string>
+</resources>

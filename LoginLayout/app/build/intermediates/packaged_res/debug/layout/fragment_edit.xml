@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".fragments.EditFragment">
+    tools:context=".fragments.InsertFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <com.google.android.material.textfield.TextInputLayout
@@ -26,7 +26,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
-            android:hint="Champion Name" />
+            android:hint="@string/champion_name_input" />
 
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -51,7 +51,7 @@
             app:layout_constraintTop_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="@id/champ_name"
             app:layout_constraintEnd_toEndOf="@id/champ_name"
-            android:hint="Type of Damage" />
+            android:hint="@string/type_of_damage_input" />
 
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -76,7 +76,7 @@
         app:layout_constraintTop_toBottomOf="@id/champ_dmg"
         app:layout_constraintStart_toStartOf="@id/champ_dmg"
         app:layout_constraintEnd_toEndOf="@id/champ_dmg"
-        android:hint="Champion Release" />
+        android:hint="@string/champion_release_input" />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -100,7 +100,7 @@
             app:layout_constraintTop_toBottomOf="@id/champ_release"
             app:layout_constraintStart_toStartOf="@id/champ_release"
             app:layout_constraintEnd_toEndOf="@id/champ_release"
-            android:hint="Champion Role" />
+            android:hint="@string/champion_role_input" />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -114,7 +114,7 @@
         app:layout_constraintTop_toBottomOf="@id/champ_role_inputlayout"
         app:layout_constraintStart_toStartOf="@id/champ_role_inputlayout"
         app:layout_constraintEnd_toEndOf="@id/champ_role_inputlayout"
-        android:text="submit"/>
+        android:text="@string/submit_button"/>
 
 
 
